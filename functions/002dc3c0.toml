@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318623Z
+addr = 0x2dc3c0
+size = 0x489
+name = "CNetworkSystem_EnableLoopbackBetweenSockets"
+
+[header]
+name = "CNetworkSystem_EnableLoopbackBetweenSockets"
+addr = 0x2dc3c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318629Z
+addr = 0x2de5e0
+size = 0x344
+name = "CNetworkSystem_RemoveNetChannel"
+
+[header]
+name = "CNetworkSystem_RemoveNetChannel"
+addr = 0x2de5e0
+
+[header.args]

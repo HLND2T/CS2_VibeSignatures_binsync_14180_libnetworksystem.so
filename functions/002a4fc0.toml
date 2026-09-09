@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318552Z
+addr = 0x2a4fc0
+size = 0x16d
+name = "CNetworkMessages_AssociateNetMessageWithChannelCategoryAbstract"
+
+[header]
+name = "CNetworkMessages_AssociateNetMessageWithChannelCategoryAbstract"
+addr = 0x2a4fc0
+
+[header.args]

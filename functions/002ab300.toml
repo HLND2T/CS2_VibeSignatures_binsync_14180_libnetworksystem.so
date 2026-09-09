@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318592Z
+addr = 0x2ab300
+size = 0x733
+name = "CNetworkMessages_ConfirmAllMessageHandlersInstalled"
+
+[header]
+name = "CNetworkMessages_ConfirmAllMessageHandlersInstalled"
+addr = 0x2ab300
+
+[header.args]

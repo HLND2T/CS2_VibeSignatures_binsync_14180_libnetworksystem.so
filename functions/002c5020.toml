@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318600Z
+addr = 0x2c5020
+size = 0x12b
+name = "CNetworkSystem_BufferToBufferDecompress"
+
+[header]
+name = "CNetworkSystem_BufferToBufferDecompress"
+addr = 0x2c5020
+
+[header.args]

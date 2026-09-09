@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318620Z
+addr = 0x2dbb50
+size = 0x861
+name = "CNetworkSystem_ConnectSocket"
+
+[header]
+name = "CNetworkSystem_ConnectSocket"
+addr = 0x2dbb50
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318595Z
+addr = 0x2addc0
+size = 0xdac
+name = "CNetworkMessages_RegisterNetworkFieldChangeCallbackInternal"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkFieldChangeCallbackInternal"
+addr = 0x2addc0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:38.318563Z
+addr = 0x2a54c0
+size = 0x57b
+name = "CNetworkMessages_RegisterNetworkArrayFieldSerializer"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkArrayFieldSerializer"
+addr = 0x2a54c0
+
+[header.args]
